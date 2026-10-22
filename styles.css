@@ -18,7 +18,7 @@ li{
     width: 50%;
     padding: 10px;
 }
-li:nth-child(1),:nth-child(5){
+li:nth-child(1),:nth-child(5),:nth-child(3){
     background-color: white;
     font-size: 22px;
 }
